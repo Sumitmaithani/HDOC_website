@@ -23,8 +23,8 @@ const HeroSection = () => {
       <div className="hero_section">
       <div className="center">
           <iframe
-            width="200"
-            height="450"
+            width="280"
+            height="480"
             className="video2"
             src="https://www.youtube.com/embed/SOMtBLFMrt8"
             title="YouTube video player"
